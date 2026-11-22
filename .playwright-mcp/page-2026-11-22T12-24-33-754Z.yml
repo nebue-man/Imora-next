@@ -1,0 +1,76 @@
+- generic [ref=f2e1]:
+  - link "Chat on WhatsApp" [ref=f2e2] [cursor=pointer]:
+    - /url: https://wa.me/910000000000?text=Hi%20Imora%2C%20I%20would%20like%20to%20enquire%20about%20a%20shoot.
+  - generic [ref=f2e5]:
+    - generic [ref=f2e6]: Imora
+    - generic [ref=f2e9]: "1"
+  - banner [ref=f2e10]:
+    - link "Imora" [ref=f2e11] [cursor=pointer]:
+      - /url: /
+    - generic [ref=f2e12]:
+      - navigation
+      - link "Book a Session" [ref=f2e13] [cursor=pointer]:
+        - /url: /photography
+  - main [ref=f2e14]:
+    - region "Studio showcase" [ref=f2e15]:
+      - img "Photography studio — white cyclorama and professional lighting rigs" [ref=f2e17]
+      - img "Post-production editing suite with triple monitors" [ref=f2e19]
+      - img "Coloured backdrop wall — gold, cyan, orange, red and black" [ref=f2e21]
+      - img "Podcast and interview studio with RODE microphone" [ref=f2e23]
+      - generic:
+        - paragraph: Photography · Videography · Studio
+        - heading "Imora" [level=1]
+      - tablist "Slide navigation" [ref=f2e24]:
+        - tab "Show slide 1" [selected] [ref=f2e25] [cursor=pointer]
+        - tab "Show slide 2" [ref=f2e26] [cursor=pointer]
+        - tab "Show slide 3" [ref=f2e27] [cursor=pointer]
+        - tab "Show slide 4" [ref=f2e28] [cursor=pointer]
+  - contentinfo [ref=f2e29]:
+    - generic [ref=f2e30]:
+      - generic [ref=f2e31]:
+        - generic [ref=f2e32]:
+          - generic [ref=f2e33]: Imora
+          - paragraph [ref=f2e34]: Photography, Videography & Studio Services in Colombo.
+        - generic [ref=f2e35]:
+          - heading "Services" [level=4] [ref=f2e36]
+          - list [ref=f2e37]:
+            - listitem [ref=f2e38]:
+              - link "Photography" [ref=f2e39] [cursor=pointer]:
+                - /url: /photography
+            - listitem [ref=f2e40]:
+              - link "Videography" [ref=f2e41] [cursor=pointer]:
+                - /url: /photography
+            - listitem [ref=f2e42]:
+              - link "Studio Hire" [ref=f2e43] [cursor=pointer]:
+                - /url: /studio
+        - generic [ref=f2e44]:
+          - heading "Elsewhere" [level=4] [ref=f2e45]
+          - list [ref=f2e46]:
+            - listitem [ref=f2e47]:
+              - link "Studio Hire" [ref=f2e48] [cursor=pointer]:
+                - /url: /studio
+            - listitem [ref=f2e49]:
+              - link "Home" [ref=f2e50] [cursor=pointer]:
+                - /url: /
+        - generic [ref=f2e51]:
+          - heading "Contact" [level=4] [ref=f2e52]
+          - list [ref=f2e53]:
+            - listitem [ref=f2e54]:
+              - link "hello@imora.studio" [ref=f2e55] [cursor=pointer]:
+                - /url: mailto:hello@imora.studio
+            - listitem [ref=f2e56]:
+              - link "+91 00000 00000" [ref=f2e57] [cursor=pointer]:
+                - /url: tel:+910000000000
+      - generic [ref=f2e58]:
+        - generic [ref=f2e59]: © 2024 Imora Studio. All rights reserved.
+        - generic [ref=f2e60]: Built by Clickx Studio
+  - generic [ref=f2e65] [cursor=pointer]:
+    - button "Open Next.js Dev Tools" [ref=f2e66]
+    - generic [ref=f2e70]:
+      - button "Open issues overlay" [ref=f2e71]:
+        - generic [ref=f2e72]:
+          - generic [aria-hidden] [ref=f2e73]: "0"
+          - generic [ref=f2e74]: "1"
+        - generic [ref=f2e75]: Issue · 1 Insight
+      - button "Collapse issues badge" [ref=f2e76]
+  - alert [ref=f2e79]
